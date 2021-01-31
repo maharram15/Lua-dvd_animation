@@ -1,0 +1,5 @@
+<meta>
+<min_mta_version client="1.5.7" server="1.5.7" />
+<script src="c.lua" type="client" />
+<file src="file/dvd.png"/>
+</meta>
